@@ -1,0 +1,38 @@
+---
+layout: post
+title: Deciphering Big Data
+subtitle: Module tasks
+categories: Units
+tags: [Big Data, intro, database]
+---
+
+##Collaborative Discussion 1 - The Data Collection Process
+
+According to Huxley et al. (2020), data cleansing is crucial in mitigating inaccuracies within IoT systems, facilitating error detection and correction. Without thorough data processing, IoT insights risk being compromised by flawed conclusions, which could result in misguided decision-making.
+
+The Internet of Things (IoT) is built on the rationale that interconnected devices can enhance automation, efficiency, and data-driven decision-making. However, as Huxley et al. (2020) highlight, effective data cleaning is crucial to ensuring the accuracy and reliability of IoT-generated insights.
+
+Opportunities
+
+The Internet of Things (IoT) facilitates real-time monitoring, enhances predictive analytics, and boosts automation across various sectors such as healthcare, transportation, and smart cities (Atzori et al., 2010). This technology optimises business operations and provides consumers with personalised experiences.
+
+Limitations
+
+Despite its benefits, the Internet of Things (IoT) encounters obstacles in data quality (Huxley et al., 2020), interoperability, and significant implementation costs (Ray, 2018). Handling the vast amount of IoT data necessitates sophisticated infrastructure and stringent data validation.
+
+Risks & Challenges
+
+IoT is vulnerable to security threats, data breaches, and ethical concerns surrounding large-scale data collection (Roman et al., 2011). Additionally, Type I and Type II errors may distort decision-making—false positives could trigger unnecessary responses, while false negatives might overlook critical threats (Osborne, 2013).
+
+ 
+
+·       Huxley, K. (2020). Data Cleaning. SAGE Research Methods Foundations. Available at: https://arxiv.org/pdf/2103.13303 [Accessed 16 May 2025].
+
+·       Atzori, L., Iera, A. and Morabito, G. (2010). The Internet of Things: A survey. Computer Networks, 54(15), pp.2787–2805. Available at: https://www.cs.mun.ca/courses/cs6910/IoT-Survey-Atzori-2010.pdf [Accessed 16 May 2025].
+
+·       Ray, P.P. (2018). A survey on Internet of Things architectures. Journal of King Saud University - Computer and Information Sciences, 30(3), pp.291–319. Available at: https://www.scirp.org/reference/referencespapers?referenceid=2609657 [Accessed 16 May 2025].
+
+·       Roman, R., Najera, P. and Lopez, J. (2011). Securing the Internet of Things. Computer, 44(9), pp.51–58. Available at: https://www.nics.uma.es/pub/papers/1633.pdf [Accessed 16 May 2025].
+
+·       Osborne, J.W. (2013). Best Practices in Data Cleaning: A Complete Guide to Everything You Need to Do Before and After Collecting Your Data. SAGE Publications. Available at: https://openpublishing.library.umass.edu/pare/article/id/1461/ [Accessed 16 May 2025].
+
